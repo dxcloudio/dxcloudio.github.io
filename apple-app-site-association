@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "2LU5L2UKM3.com.gttronics.dev.qkaudio.connect",
+        "paths": [
+          "/applinks/connect/dev/*"
+        ]
+      },
+      {
+        "appID": "2LU5L2UKM3.com.gttronics.qkaudio.connect",
+        "paths": [
+          "NOT /applinks/connect/dev/*",
+          "/applinks/connect/*"
+        ]
+      }
+    ]
+  }
+}
